@@ -45,7 +45,41 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,react,git,github,mysql,sqlite,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,react,git,github,mysql,sqlite,tensorflow,opencv,dotnet,cs,laravel,php" />
+
+</div>
+
+---
+
+## 📈 Skills Progress
+
+<div align="center">
+
+<!-- Languages -->
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-90%25-1E90FF?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-85%25-1E90FF?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-1E90FF?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-75%25-1E90FF?style=for-the-badge)
+
+**Frameworks & Technologies**
+
+![.NET](https://img.shields.io/badge/.NET-85%25-000000?style=for-the-badge)
+![Blazor](https://img.shields.io/badge/Blazor-80%25-000000?style=for-the-badge)
+![MAUI](https://img.shields.io/badge/.NET%20MAUI-75%25-000000?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-85%25-000000?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-80%25-000000?style=for-the-badge)
+![React](https://img.shields.io/badge/React-75%25-000000?style=for-the-badge)
+
+**Tools & Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-85%25-1E90FF?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-80%25-1E90FF?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-85%25-1E90FF?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-70%25-1E90FF?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-75%25-1E90FF?style=for-the-badge)
 
 </div>
 
